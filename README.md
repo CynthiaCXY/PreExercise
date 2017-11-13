@@ -1,10 +1,7 @@
 # PreExercise
 
   *  git clone https://github.com/CynthiaCXY/PreExercise
-  *  Add a newline at the end of the README.md file (can use any text editor to open it) with your name.
+  *  Add a new txt file with your name, name it <git-username>.txt
   *  git add .
-  *  git commit -m "blah blah"
+  *  git commit -m "Add response from <name>"
   *  git push
-
-
-Cynthia Yu
