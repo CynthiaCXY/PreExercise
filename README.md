@@ -10,5 +10,6 @@ For example:
   *  `git add CynthiaCXY.txt`
   *  `git status`
   *  `git commit -m "Add response from CynthiaCXY"`
+  *  `git pull --rebase`
   *  `git push`
 
