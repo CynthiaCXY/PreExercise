@@ -5,7 +5,7 @@ Clone this repository, create a new file named \<your-git-username>.txt with you
 For example:
 
   *  `git clone https://github.com/CynthiaCXY/PreExercise`
-  *  Go to `PreExercise` folder, create file `CynthiaCXY.txt`
+  *  Go to `PreExercise` folder, create file `yourName.txt`. You can just use `nano -e yourName.txt` to create and edit the file, if you are using Linux/Mac.
   *  `git status`
   *  `git add CynthiaCXY.txt`
   *  `git status`
